@@ -11,12 +11,12 @@ operating systems:
 
 ![multiverse1999's programming languages](https://skillicons.dev/icons?i=windows,linux,bsd,plan9)
 ---
-programming languages:
+languages:
 
-![multiverse1999's programming languages](https://skillicons.dev/icons?i=python,lua,perl,c)
+![multiverse1999's programming languages](https://skillicons.dev/icons?i=python,lua,perl,c,html,css,bash)
 ---
 tools:
 
-![multiverse1999's programming languages](https://skillicons.dev/icons?i=html,css,bash,vscode,vim,git)
+![multiverse1999's programming languages](https://skillicons.dev/icons?i=vscode,vim,git)
 ---
 ![multiverse1999's viewing statistics](https://komarev.com/ghpvc/?username=multiverse1999&color=6607ce)
