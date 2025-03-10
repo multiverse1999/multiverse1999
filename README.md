@@ -1,16 +1,22 @@
-## Hi there 👋
+hey!
+---
+am elias/eli
 
-<!--
-**multiverse1999/multiverse1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i will have repositories soon
 
-Here are some ideas to get you started:
+![multiverse1999's github stats](https://github-readme-stats.vercel.app/api?username=multiverse1999&theme=dark&line_height=20&show_icons=true&include_all_commits=true&count_private=true)
+![multiverse1999's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=multiverse1999&theme=dark&layout=compact&show_icons=true&exclude_repo=colab-notebooks)
+---
+operating systems:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![multiverse1999's programming languages](https://skillicons.dev/icons?i=windows,linux,bsd,plan9)
+---
+programming languages:
+
+![multiverse1999's programming languages](https://skillicons.dev/icons?i=python,lua,perl,c)
+---
+tools:
+
+![multiverse1999's programming languages](https://skillicons.dev/icons?i=html,css,bash,vscode,vim,git)
+---
+![multiverse1999's viewing statistics](https://komarev.com/ghpvc/?username=multiverse1999&color=6607ce)
