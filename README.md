@@ -9,7 +9,7 @@ i will have repositories soon
 ---
 operating systems:
 
-![multiverse1999's programming languages](https://skillicons.dev/icons?i=windows,linux,bsd,plan9)
+![multiverse1999's programming languages](https://skillicons.dev/icons?i=windows,linux)
 ---
 languages:
 
