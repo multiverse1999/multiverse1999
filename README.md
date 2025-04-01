@@ -13,10 +13,10 @@ operating systems:
 ---
 languages:
 
-![multiverse1999's programming languages](https://skillicons.dev/icons?i=python,lua,c,html,bash)
+![multiverse1999's programming languages](https://skillicons.dev/icons?i=python,lua,c,bash)
 ---
 tools:
 
-![multiverse1999's programming languages](https://skillicons.dev/icons?i=vim,git)
+![multiverse1999's programming languages](https://skillicons.dev/icons?i=vim,git,html,markdown,md)
 ---
 ![multiverse1999's viewing statistics](https://komarev.com/ghpvc/?username=multiverse1999&color=6607ce)
