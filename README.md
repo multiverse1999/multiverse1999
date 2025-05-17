@@ -26,6 +26,7 @@ tools:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake.svg">
 </picture>
+
 ---
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=multiverse1999&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
