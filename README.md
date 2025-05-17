@@ -26,28 +26,4 @@ tools:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake.svg">
 </picture>
----
-<p>
-    <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c.svg" width=64px height=64px>
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width=64px height=64px>
-    <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.svg" width=64px height=64px>
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height=64px width=64px>
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.svg" width=64px height=64px>
-    <img src="https://static.cdnlogo.com/logos/c/18/css.svg" width=64px height-64px>
-</p>
 
-### フレームワーク、ライブラリ系
-
-<p>
-    <img src="https://static.cdnlogo.com/logos/q/43/qt.svg" height=64px width=auto>
-    <img src="https://static.cdnlogo.com/logos/e/44/electron.svg" width=64px height=64px>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height=64px width=auto>
-</p>
-
-### ツール
-
-<p>
-    <img src="https://static.cdnlogo.com/logos/g/15/git-icon.svg" heignt=64px width=64px>
-    <img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/github.svg" height=64px width=64px>
-    <img src="https://static.cdnlogo.com/logos/n/68/npm.svg" height=64px width=auto>
-</p>
