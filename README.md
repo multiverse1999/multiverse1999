@@ -22,13 +22,11 @@ tools:
 ![multiverse1999's viewing statistics](https://komarev.com/ghpvc/?username=multiverse1999&color=6607ce)
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/multiverse1999/multiverse1999/main/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/multiverse1999/multiverse1999/main/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/multiverse1999/multiverse1999/main/img/snake.svg">
 </picture>
 ---
-## 
-
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=multiverse1999&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverse1999&theme=2077)
