@@ -29,10 +29,8 @@ tools:
 ---
 ## 
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsuki0222&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=multiverse1999&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itsuki0222&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=multiverse1999&theme=2077)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Itsuki0222&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
-
-ただでさえ少ないスッカスカContributionsを食べてしまうヘビ↓
+[![trophy](https://github-profile-trophy.vercel.app/?username=multiverse1999&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
