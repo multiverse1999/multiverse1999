@@ -20,3 +20,9 @@ tools:
 ![multiverse1999's programming languages](https://skillicons.dev/icons?i=vim,git,html)
 ---
 ![multiverse1999's viewing statistics](https://komarev.com/ghpvc/?username=multiverse1999&color=6607ce)
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake.svg">
+</picture>
